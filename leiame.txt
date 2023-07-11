@@ -1,3 +1,8 @@
-iniciar controle de versionamento 
+Iniciar controle de versionamento 
 git init
 
+Adiciona o arquivo/alteração na estage area
+git add <arquivo>
+
+Adicionando comentario do conteudo da estage area 
+git commit -m "SEU_TEXTO"
